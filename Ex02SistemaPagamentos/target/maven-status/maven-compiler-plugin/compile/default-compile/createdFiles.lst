@@ -1,0 +1,4 @@
+br\edu\etec\myproject\model\StatusPagamento.class
+br\edu\etec\myproject\model\PagamentoCartao.class
+br\edu\etec\myproject\teste\TestePagamento.class
+br\edu\etec\myproject\model\Pagamento.class
