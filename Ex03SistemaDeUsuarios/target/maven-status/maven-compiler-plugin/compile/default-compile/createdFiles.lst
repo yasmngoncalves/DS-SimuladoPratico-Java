@@ -1,0 +1,3 @@
+br\edu\etec\sistemadeusuario\model\Usuario.class
+br\edu\etec\sistemadeusuario\model\NivelAcesso.class
+br\edu\etec\sistemadeusuario\teste\TesteUsuario.class
